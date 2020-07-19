@@ -16,6 +16,12 @@ You'll need this dataset in Chapter 06.
 
 This dataset shows the number of cases of COVID-19 in different area of France in March 2020. It comes from [here](https://www.data.gouv.fr/en/datasets/cas-confirmes-dinfection-au-covid-19-par-region/).
 
+## CIQUAL
+
+You'll need this dataset in Chapter 09.
+
+This dataset comes from the [French Agency for Food, Environmental and Occupational Health & Safety](https://ciqual.anses.fr) and presents food composition data.
+
 ## Beer Consumption
 
 You'll need this dataset in Chapter 10.
