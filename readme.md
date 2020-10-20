@@ -1,4 +1,4 @@
-This is the companion repo of the book *Essential Math for Data Science* with O'Reilly. You'll find here the datasets and the Jupyter notebooks with all the code from the book (COMING SOON).
+This is the companion repo of the book <a href="https://www.essentialmathfordatascience.com/">Essential Math for Data Science</a>. You'll find here the datasets and the audio examples.
 
 # Datasets
 
@@ -34,3 +34,7 @@ You'll need this dataset in Chapter 10.
 
 This dataset is composed of 1500 5-s audio samples. It has been released as a machine learning challenge in 2018 with the goal to categorize audio samples. You can find more details it [here](https://cvssp.org/projects/making_sense_of_sounds/site/challenge/). This dataset is not included in the repository, you need to get it [here](https://ndownloader.figshare.com/files/12610922).
 
+
+# Audio Examples
+
+You'll find here the audio resulting of the Hands-on project on Principal Component Analysis.
